@@ -53,7 +53,15 @@ const projetos = [
         link: "https://antonioprolucas.github.io/Zelda-Timeline-Guide/",
         imagem: "./src/img/Projeto_Zelda-timeline.png",
         alt: "Projeto Zelda Timeline Guide",
-        descricao: "Guia interativo sobre a timeline da série The Legend of Zelda, feita com HTML, CSS e JavaScript. Permite que os usuários entendam a cronologia da franquia, visualizem sinopses e acessem links para uma wiki externa para obter informações aprofundadas."
+        descricao: "Guia interativo sobre a timeline da séri The Legend of Zelda, feita com HTML, CSS e JavaScript. Permite que os usuários entendam a cronologia da franquia, visualizem sinopses e acessem links para uma wiki externa para obter informações aprofundadas."
+    },
+    {
+        classe: "projeto",
+        titulo: "Projeto Pokedevs",
+        link: "https://antonioprolucas.github.io/Pokedevs-SZPC/",
+        imagem: "./src/img/Projeto-Pokedevs.png",
+        alt: "Projeto Pokedevs",
+        descricao: "Projeto feito com HTML, CSS e JS na semana do zero ao programdor contratado. Uma interfece que representam imgens e atributos de devs inspirados em Pokémons!"
     },
     {
         classe: "projeto",
